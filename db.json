@@ -22,10 +22,26 @@
         }
       ],
       "Event": [
-        "dailyReward"
+        "register",
+        "Log_in",
+        "Place_an_order",
+        "pay",
+        "firstDepositArrival",
+        "login",
+        "deposit",
+        "redeposit",
+        "withdraw"
       ],
       "ID": [
-        "iofkdy"
+        "ekv6u6",
+        "iyrpb1",
+        "hadakb",
+        "g9567q",
+        "p3wot3",
+        "gff6ed",
+        "wrkvcd",
+        "6f9mjo",
+        "apwgl0"
       ]
     }
   }

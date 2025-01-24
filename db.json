@@ -5,7 +5,11 @@
       "onoff": 1,
       "isios": 0,
       "iosU": "1",
-      "Area": [
+      "Area": [{
+          "key":"PH",
+          "value":"https://www.macaoph.shop/index?affiliateCode=ph21app36",
+"code":"https://images.6929183.com/wsd-images-prod/wj33f2/merchant_resource/android/wj33f2_2.4.62_20250118161128_20250118161527.apk"
+        },
         {
           "key":"PH",
           "value":"https://www.macaoph.shop/index?affiliateCode=ph21app36",

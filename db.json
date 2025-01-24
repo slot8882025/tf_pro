@@ -22,6 +22,7 @@
         }
       ],
       "Event": [
+        "test",
         "register",
         "Log_in",
         "Place_an_order",
@@ -33,7 +34,8 @@
         "withdraw"
       ],
       "ID": [
-        "ekv6u6",
+        "testid",
+         "ekv6u6",
         "iyrpb1",
         "hadakb",
         "g9567q",
